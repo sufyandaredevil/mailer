@@ -1,2 +1,2 @@
-to run, type the following cmds:
+to run, type the following cmd:
 > npm i
